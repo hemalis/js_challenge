@@ -8,17 +8,19 @@ The purpose of the project was to create a webpage which shows UFO sightings usi
 
 Created webpage is having a filter section on the left of the page and a dynamic table on the right side of the page. By default it shows below view which show all UFO sightings without filters.
 
-![image](https://github.com/hemalis/ufo_challenge/blob/main/images/main.png?raw=true)
+![image](https://github.com/hemalis/js_challenge/blob/main/static/images/main.png)
 
 ### Single search filter
 
 User can write in the search boxes on the left section and on enter table will update with entered search criteria. For eg. Below is the image for serching for "el cajon" city.
-![image](https://github.com/hemalis/ufo_challenge/blob/main/images/single.png?raw=true)
+
+![image](https://github.com/hemalis/js_challenge/blob/main/static/images/single.png)
 
 ### Multiple search filter
 
-User can also further update multiple filter fields and table will update accorigly. For eg with city "el cajon", if user wants to see the "triable" shaped UFOs below is how it will look.
-![image](https://github.com/hemalis/ufo_challenge/blob/main/images/multiple.png?raw=true)
+User can also further update multiple filter fields and table will update accorigly. For eg with city "el cajon", if user wants to see the "triangle" shaped UFOs below is how it will look.
+
+![image](https://github.com/hemalis/js_challenge/blob/main/static/images/multiple.png)
 
 ## Summary
 
